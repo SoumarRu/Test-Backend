@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souma\\source\\repos\\TestApi\\TestApi\\TestApi.csproj": {}
+    "C:\\Users\\souma\\Desktop\\Test-Backend\\TestApi\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souma\\source\\repos\\TestApi\\TestApi\\TestApi.csproj": {
+    "C:\\Users\\souma\\Desktop\\Test-Backend\\TestApi\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souma\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
+        "projectUniqueName": "C:\\Users\\souma\\Desktop\\Test-Backend\\TestApi\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "C:\\Users\\souma\\source\\repos\\TestApi\\TestApi\\TestApi.csproj",
+        "projectPath": "C:\\Users\\souma\\Desktop\\Test-Backend\\TestApi\\TestApi\\TestApi.csproj",
         "packagesPath": "C:\\Users\\souma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souma\\source\\repos\\TestApi\\TestApi\\obj\\",
+        "outputPath": "C:\\Users\\souma\\Desktop\\Test-Backend\\TestApi\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souma\\AppData\\Roaming\\NuGet\\NuGet.Config",

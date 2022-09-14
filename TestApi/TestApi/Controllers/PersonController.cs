@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 
 namespace TestApi.Controllers
 {
@@ -16,9 +17,9 @@ namespace TestApi.Controllers
         [HttpGet(Name = "GetPeople")]
         public IEnumerable<Person> Get()
         {
-            Person person1 = new(1, "Soumar", 28);
-            Person person2 = new(2, "Mehdi", 26);
-            Person person3 = new(3, "Mohamed", 27);
+            Person person1 = new(1, "Soumar", 28, 1);
+            Person person2 = new(2, "Mehdi", 26, 2);
+            Person person3 = new(3, "Mohamed", 27, 1);
 
             List<Person> persons = new List<Person>
             {
